@@ -18,7 +18,7 @@ import os
 import ml_collections        
 from thop import profile
 import time  
-from model.GN_Mymodel import SHViT
+from model import DyGLNet
 
 
 

@@ -9,7 +9,7 @@ from utils import get_dataloader,get_dataloader_BUSI
 import numpy as np
 import random
 import os
-from model.Sparse_Mymodel import SHViT
+from model import DyGLNet
 
 os.environ["NO_ALBUMENTATIONS_UPDATE"] = "1"
 
