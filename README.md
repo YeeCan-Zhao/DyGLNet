@@ -28,5 +28,15 @@ All datasets used in this research are **publicly available** and can be downloa
 We sincerely thank the authors of DyT, SHVIT, DySample, and other related open-source projects for their excellent work and publicly available code. Their contributions have provided important technical support and foundations for the completion of this research. 
 
 ## 🚀 Quick Start
-### Requirements
+### 2. Environment Setup
+```bash
+# Clone the repository
+git clone https://github.com/your-username/DyGLNet.git
+cd DyGLNet
+
+# Create a virtual environment
+conda create -n dyglnet python=3.8
+conda activate dyglnet
+
+# Install dependencies
 pip install -r requirements.txt
