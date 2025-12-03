@@ -28,7 +28,7 @@ All datasets used in this research are **publicly available** and can be downloa
 We sincerely thank the authors of DyT, SHVIT, DySample, and other related open-source projects for their excellent work and publicly available code. Their contributions have provided important technical support and foundations for the completion of this research. 
 
 ## 🚀 Quick Start
-### 2. Environment Setup
+### Environment Setup
 ```bash
 # Clone the repository
 git clone https://github.com/your-username/DyGLNet.git
@@ -40,3 +40,18 @@ conda activate dyglnet
 
 # Install dependencies
 pip install -r requirements.txt
+``` 
+
+
+## 📚 Citation
+If you find our work helpful for your research, please cite our paper:
+```bash
+@article{zhao2025dyglnet,
+  title={DyGLNet: Hybrid Global-Local Feature Fusion with Dynamic Upsampling for Medical Image Segmentation},
+  author={Zhao, Yican and Wang, Ce and Hao, You and Li, Lei and Liao, Tianli},
+  journal={Pattern Recognition},
+  pages={112792},
+  year={2025},
+  publisher={Elsevier}
+}
+``` 
